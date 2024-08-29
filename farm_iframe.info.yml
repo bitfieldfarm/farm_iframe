@@ -1,7 +1,7 @@
 name: farmOS iFrame Module
 type: module
 description: Embeds iFrames in farmOS
-core_version_requirement: ^9||^10
+core_version_requirement: ^9 || ^10
 package: farmOS Contrib
 dependencies:
   - admin_toolbar:admin_toolbar
